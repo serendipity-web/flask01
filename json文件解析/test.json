@@ -1,0 +1,29 @@
+{
+    "company": {
+        "name": "Tech Solutions",
+        "founded": 2010,
+        "employees": [
+            {
+                "name": "Alice",
+                "role": "Engineer",
+                "years_with_company": 5
+            },
+            {
+                "name": "Bob",
+                "role": "Product Manager",
+                "years_with_company": 3
+            }
+        ],
+        "departments": [
+            {
+                "name": "Engineering",
+                "head": "Alice"
+            },
+            {
+                "name": "Product",
+                "head": "Bob"
+            }
+        ]
+    }
+}
+
